@@ -1,4 +1,4 @@
-## Transactions Manager 
+## Transactions 
 Uma aplicação em React que gerencia transações bancárias 
 
 ### Sobre o projeto 
@@ -39,7 +39,8 @@ GET `https://transactionmanager-1e50a.firebaseio.com/.json`
 
 ### Arquitetura básica do projeto
 
-`├── src
+```bash
+├── src
 │   ├── assets
 │   │   ├── icons
 │   │   ├── images
@@ -78,5 +79,5 @@ GET `https://transactionmanager-1e50a.firebaseio.com/.json`
 ├── README.md
 ├── package.json
 ├── yarn.lock
-└── .gitignore`
-
+└── .gitignore
+```
