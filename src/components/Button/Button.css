@@ -1,0 +1,35 @@
+button {
+  border-radius: 3.125rem;
+  height: 2.1875rem;
+  width: 7.5rem;
+  line-height: 1rem;
+  font-size: 0.875rem;
+  text-align: center;
+  box-shadow: none;
+  border: none;
+  margin: 0 0.625rem auto;
+  display: block;
+  cursor: pointer;
+}
+
+@media (min-width: 768px) { 
+  button { 
+    margin: 0 0.625rem 0 0;
+    display: inline;
+  }
+}
+
+button.btn-primary {
+  background: var(--color-purple);
+  color: var(--color-white);
+}
+
+button.btn-primary:disabled { 
+  background: var(--color-grey);
+}
+
+button.btn-secondary {
+  background: var(--color-white);
+  border: 1px solid var(--color-purple);
+  color: var(--color-purple);
+}

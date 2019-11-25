@@ -1,0 +1,20 @@
+:root {
+  --color-green: green;
+  --color-red: red;
+  --color-purple: #645ba1;
+  --color-lightgrey: #e6e6e6;
+  --color-extralight-grey: #f9f9f9;
+  --color-white: #fff;
+  --color-grey: #ccc;
+  
+  --color-scrollbar-darkgrey: #555;
+  --color-scrollbar-grey: #888;
+}
+
+.highlight-green {
+  color: var(--color-green);
+}
+
+.highlight-red {
+  color: var(--color-red);
+}

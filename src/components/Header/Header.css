@@ -1,0 +1,14 @@
+header { 
+    width: 100%;
+    background-color: var(--color-purple);
+    height: 3.75rem;
+}
+
+header img { 
+    width: 42px;
+    height: 42px;
+    margin: 0;
+    padding: 0.625rem 1.25rem;
+    display: block;
+
+}
