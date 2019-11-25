@@ -30,6 +30,7 @@ O projeto tem o objetivo de gerenciar as transações bancárias realizadas pelo
 ### Metodologias utilizadas 
 - OOCSS 
 - Dumb and Smart Components
+- Mobile First
 
 ### Backend e Banco de Dados
 - Firebase 
