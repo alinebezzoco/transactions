@@ -2,7 +2,7 @@
 Uma aplicação em React que gerencia transações bancárias 
 
 ### Sobre o projeto 
-O projeto tem o objetivo de gerenciar as transações bancárias realizadas pelo usuário e calculando os seus gastos de acordo com as informações de débito e crédito que ele cadastrar.
+O projeto tem o objetivo de gerenciar as transações bancárias realizadas pelo usuário e calculando os seus gastos de acordo com as informações de débito e crédito que ele cadastrar
 
 ### Features 
 - Site responsivo 
@@ -49,8 +49,8 @@ GET `https://transactionmanager-1e50a.firebaseio.com/.json`
 │   │   ├── **/*.css
 │   ├── libs
 │   │   ├── Helper
-│   │   ├── Helper.js
-│   │   ├── Helper.test.js
+│   |   |   |── Helper.js
+│   |   |   |── Helper.test.js
 │   ├── components
 │   │   ├── componentName
 │   |   |   |── **/*.js
