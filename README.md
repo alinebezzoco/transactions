@@ -48,10 +48,9 @@ GET `https://transactionmanager-1e50a.firebaseio.com/.json`
 │   ├── ui
 │   │   ├── **/*.css
 │   ├── libs
-│   │   ├── helper
-│   │   ├── **/*.css
-│   │   ├── **/*.js
-│   │   ├── **/*.test.js
+│   │   ├── Helper
+│   │   ├── Helper.js
+│   │   ├── Helper.test.js
 │   ├── components
 │   │   ├── componentName
 │   |   |   |── **/*.js
