@@ -11,6 +11,7 @@ O projeto tem o objetivo de gerenciar as transações bancárias realizadas pelo
 - O formulário só é enviado quando o usuário preencher todos os campos 
 - UI simples
 - Cálculo do total das transações 
+- PWA
 
 ### Como rodar o projeto 
 - Clone o repositório
