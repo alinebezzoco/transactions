@@ -10,6 +10,7 @@ O projeto tem o objetivo de gerenciar as transações bancárias realizadas pelo
 - Exibição do conteúdo em tempo real
 - O formulário só é enviado quando o usuário preencher todos os campos 
 - UI simples
+- Cálculo do total das transações 
 
 ### Como rodar o projeto 
 - Clone o repositório
