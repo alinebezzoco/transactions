@@ -36,7 +36,7 @@ O projeto tem o objetivo de gerenciar as transações bancárias realizadas pelo
 ### Backend e Banco de Dados
 - Firebase 
 
-### API do Projeto
+### API
 GET `https://transactionmanager-1e50a.firebaseio.com/.json`
 
 ### Arquitetura básica do projeto
